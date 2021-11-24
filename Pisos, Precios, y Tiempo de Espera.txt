@@ -1,0 +1,16 @@
+Pisos, Precios (Pesos, por metros cuadrados), y Tiempo de Espera (Dias):
+Madera
+14.99
+4
+Marmol
+19.99
+5
+Granito
+9.99
+3
+Piedra
+7.99
+4
+Ceramica
+6.99
+3

@@ -1,0 +1,16 @@
+Azulejos, Precios (Pesos, por metros cuadrados), y Tiempo de Espera (Dias):
+Azul
+5.99
+3
+Celeste
+8.99
+4
+Negro
+13.99
+4
+Blanco
+16.99
+5
+Beige
+14.99
+3

@@ -1,0 +1,16 @@
+Muebles, Precios (Pesos), y Tiempo de Espera (Dias):
+Sillon
+449.99
+7
+Mesa
+299.99
+4
+Libreria
+999.99
+10
+Escritorio
+499.99
+8
+Cama
+849.99
+9

@@ -1,0 +1,16 @@
+Bano, Precios (Pesos), y Tiempo de Espera (Dias):
+Retrete
+599.99
+5
+Regadera
+999.99
+16
+Lavabo
+499.99
+10
+Basurero
+89.99
+4
+Cortina
+49.99
+3
